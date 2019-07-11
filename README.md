@@ -4,6 +4,6 @@ A new Flutter application.
 
 
 
-- [csdn 介绍](https://blog.csdn.net/qq_36425505/article/details/95455108)
+- [csdn 介绍详情](https://blog.csdn.net/qq_36425505/article/details/95455108)
 
 
